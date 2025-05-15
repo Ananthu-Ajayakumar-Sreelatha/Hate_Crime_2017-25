@@ -30,7 +30,7 @@ To analyze hate crime trends across different states, offense types, bias motiva
 
 ## 🖼️ Dashboard Screenshot
 
-![Dashboard Screenshot](hate_crimes_dashboard.png)
+![Dashboard Screenshot](Hatecrime.png)
 
 ---
 
