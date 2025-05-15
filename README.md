@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ## 🙋‍♀️ Author
 
-[Your Name]  
-🔗 [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/ananthu-ajayakumar-sreelatha-1a469b254/))  
+Ananthu Ajayakumar Sreelatha 
+🔗 [LinkedIn](https://www.linkedin.com/in/ananthu-ajayakumar-sreelatha-1a469b254/)
 💻 [GitHub](https://github.com/Ananthu-Ajayakumar-Sreelatha)
 
