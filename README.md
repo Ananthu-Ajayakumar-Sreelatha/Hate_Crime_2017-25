@@ -37,7 +37,7 @@ To analyze hate crime trends across different states, offense types, bias motiva
 ## 📂 How to Use
 
 1. Clone the repo or download ZIP
-2. Open the `.pbix` file in Power BI Desktop
+2. Open the `Hate Crimes 2017-2025.pbix` file in Power BI Desktop
 3. Interact with filters and visuals
 
 ---
